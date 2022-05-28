@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "brand": "bmw",
+      "model": "M5",
+      "price": 51000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur, atque consectetur cum distinctio excepturi id iusto labore laborum molestiae necessitatibus nisi numquam obcaecati, odio placeat repudiandae ullam, voluptas voluptates!"
+    },
+    {
+      "brand": "volvo",
+      "model": "v90",
+      "price": 65000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur, atque consectetur cum distinctio excepturi id iusto labore laborum molestiae necessitatibus nisi numquam obcaecati, odio placeat repudiandae ullam, voluptas voluptates!"
+    },
+    {
+      "brand": "moskvich",
+      "model": "Gold",
+      "price": 5000,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet aspernatur, atque consectetur cum distinctio excepturi id iusto labore laborum molestiae necessitatibus nisi numquam obcaecati, odio placeat repudiandae ullam, voluptas voluptates!"
+    }
+  ]
+}
